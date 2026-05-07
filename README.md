@@ -1,5 +1,3 @@
-Here is a cleaned version:
-
 ````markdown
 # Results_paper_SHEAP
 
